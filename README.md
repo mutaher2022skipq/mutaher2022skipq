@@ -1,117 +1,102 @@
 <div align="center">
 
-<img src="https://github.com/mutaher2022skipq.png" width="170" alt="GitHub profile avatar" style="border-radius:50%; border: 3px solid #1f2937;" />
+<img src="https://github.com/mutaher2022skipq.png" width="150" alt="Mutaher's GitHub profile avatar" />
 
-<h1>Mutaher</h1>
+# Mutaher
 
-<p>
-  <img src="https://img.shields.io/badge/Full-stack%20Developer-Engineer-00D1B2?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+**Full-Stack Developer** · **Django & React** · **Workflow-focused Software**
+
+I build practical web applications and backend systems with a focus on clear architecture, useful features, and reliable delivery.
+
+[Projects](https://github.com/mutaher2022skipq?tab=repositories) · [GitHub profile](https://github.com/mutaher2022skipq)
 
 </div>
 
-<p align="center">
-  Building practical digital products, backend systems, and workflow-driven applications with a focus on clean architecture and real-world usability.
-</p>
-
 ---
 
-## Profile overview
+## About
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🚀 Core focus</h3>
-      <ul>
-        <li>Full-stack web development</li>
-        <li>API design and backend systems</li>
-        <li>Workflow automation and practical tools</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💡 Strengths</h3>
-      <ul>
-        <li>Clean, maintainable architecture</li>
-        <li>Problem-driven product building</li>
-        <li>Documentation and deployment readiness</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Stack</h3>
-      <ul>
-        <li>Python · Django</li>
-        <li>JavaScript · React</li>
-        <li>Docker · PostgreSQL</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### Focus
+
+- Full-stack web applications
+- Backend APIs and integrations
+- Workflow automation
+
+</td>
+<td width="33%" valign="top">
+
+### Approach
+
+- Build around real user needs
+- Prefer clear, maintainable code
+- Document setup and operations
+
+</td>
+<td width="33%" valign="top">
+
+### Technologies
+
+- Python · Django · DRF
+- JavaScript · React
+- Docker · PostgreSQL
+
+</td>
+</tr>
 </table>
 
----
-
-## Featured repositories
+## Selected projects
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧑‍🎓 ikGhar Alumni Portal</h3>
-      Alumni portal and marketplace extension with a Django backend and React frontend.
-      <br />
-      <a href="https://github.com/mutaher2022skipq/alumni_portal_extension_ikg">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏫 MCM Induction</h3>
-      Admissions and induction management application covering workflows, notifications, and API services.
-      <br />
-      <a href="https://github.com/mutaher2022skipq/MCM_Induction">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🗓️ Digital Timetable</h3>
-      Scheduling and timetable management project focused on useful automation and productivity.
-      <br />
-      <a href="https://github.com/mutaher2022skipq/digital_timetable">View project →</a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🎓 ikGhar Alumni Portal
+Alumni portal and marketplace extension with a Django API and React frontend.
+
+**Django · DRF · React · Docker**
+
+[Explore the repository →](https://github.com/mutaher2022skipq/alumni_portal_extension_ikg)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏫 MCM Induction
+Admissions and induction management application with API and notification workflows.
+
+**Django · DRF · Celery · Redis**
+
+[Explore the repository →](https://github.com/mutaher2022skipq/MCM_Induction)
+
+</td>
+<td width="33%" valign="top">
+
+### 🗓️ Digital Timetable
+A Django scheduling project with timetable data and supporting scripts.
+
+**Python · Django**
+
+[Explore the repository →](https://github.com/mutaher2022skipq/digital_timetable)
+
+</td>
+</tr>
 </table>
 
----
+## Toolkit
 
-## GitHub metrics
+**Backend:** Python, Django, Django REST Framework  ·  **Frontend:** JavaScript, React  ·  **Data & delivery:** PostgreSQL, Docker, Git
 
-<div align="center">
+## Explore
 
-<img src="https://github-readme-stats.vercel.app/api?username=mutaher2022skipq&show_icons=true&theme=radical&hide_border=true&title_color=7dd3fc&icon_color=34d399&text_color=e2e8f0&bg_color=020817" alt="GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutaher2022skipq&layout=compact&theme=radical&hide_border=true&title_color=7dd3fc&text_color=e2e8f0&bg_color=020817" alt="Top languages" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mutaher2022skipq&theme=radical&hide_border=true&background=020817&dates=7dd3fc&ring=34d399&currStreakLabel=7dd3fc" alt="GitHub streak" />
-
-</div>
-
----
-
-## Tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+Browse [all repositories](https://github.com/mutaher2022skipq?tab=repositories) or visit my [GitHub profile](https://github.com/mutaher2022skipq).
 
 ---
 
 <div align="center">
 
-<a href="https://github.com/mutaher2022skipq?tab=repositories">Explore repositories</a>
+*Thanks for visiting.*
 
 </div>
